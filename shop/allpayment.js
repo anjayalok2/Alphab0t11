@@ -17,9 +17,9 @@ return `PAYMENT BY Xrzz
 1. GOPAY
 	ㅁ 0821 2424 50421
 2. OVO
-	ㅁ 0821 2424 5042
+	ㅁ 0821 2424 50421
 3. DANA
-	ㅁ 0821 2424 5042
+	ㅁ 0821 2424 50421
 	
 Semuanya atas nama Ze***one
 
