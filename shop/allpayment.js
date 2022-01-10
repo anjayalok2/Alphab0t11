@@ -1,31 +1,31 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY Xrzz 
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ Zonkk!!
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ Zonkk!!
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ Zonkk!!
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ Zonkk!!
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0821 2424 50421
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0821 2424 5042
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0821 2424 5042
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama Ze***one
 
 *📲 PULSA*
 
-Tidak tersedia
+Axis : 0838 3081 5715
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
